@@ -1,6 +1,6 @@
   <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:050816,50:0b1020,100:111827&text=Lakshman%20Mukesh&fontColor=d1d5db&fontAlignY=40&desc=Lost%20between%20midnight%20thoughts%20and%20unfinished%20projects.&descAlignY=58&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:050816,50:0b1020,100:111827&text=L.Lakshman%20&fontColor=d1d5db&fontAlignY=40&desc=Lost%20between%20midnight%20thoughts%20and%20unfinished%20projects.&descAlignY=58&animation=fadeIn"/>
 
 </div>
 
@@ -21,18 +21,18 @@
 # 🌧 About Me
 
 ```yaml
-Name: Lakshman Mukesh
+Name: L.Lakshman Mukesh
 Role: Engineering Student
 Focus: Full Stack Development / AI
 Status: Building in silence.
 Location: Somewhere between reality and imagination.
 ```
 
-- ⚡ Exploring AI-powered applications
-- 🌑 Interested in dark minimal aesthetics
-- 🖥️ Building projects that feel alive
-- 🌧️ Night > Day
-- 🕶️ Probably hiding something in private repositories
+- ◉ Exploring AI-powered applications
+- ◉ Interested in dark minimal aesthetics
+- ◉ Building projects that feel alive
+- ◉ Night > Day
+- ◉ Probably hiding something in private repositories
 
 ---
 
@@ -66,10 +66,10 @@ Location: Somewhere between reality and imagination.
 > Access granted.
 ```
 
-- 🧠 AI Resume Analyzer
-- 🌧 Atmospheric UI Experiments
-- ⚙️ Smart Automation Projects
-- 🔒 Something unnamed is still under construction...
+- ⦿ AI Resume Analyzer
+- ⦿ Atmospheric UI Experiments
+- ⦿ Smart Automation Projects
+- ⦿ Something unnamed is still under construction...
 
 ---
 
