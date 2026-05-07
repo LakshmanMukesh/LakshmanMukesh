@@ -88,8 +88,8 @@ Location: Somewhere between reality and imagination.
 <div align="center">
 
 ```txt
-"No matter how dark the road gets,
-the screen still glows."
+                                                  "No matter how dark the road gets,
+                                                        the screen still glows."
 ```
 
 </div>
